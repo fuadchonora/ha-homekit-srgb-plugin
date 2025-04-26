@@ -1,0 +1,8 @@
+{
+    "name": "HA Homekit Lights",
+    "vendorId": 4660,
+    "productId": 22136,
+    "author": "Fuad Chonora",
+    "entry": "plugin.js",
+    "version": "1.0.0"
+  }
