@@ -1,5 +1,3 @@
-// plugin.js
-
 export function Name() { return "HA Homekit Lights"; }
 export function VendorId() { return 0x0000; } // Custom Vendor ID
 export function ProductId() { return 0x0001; } // Custom Product ID
